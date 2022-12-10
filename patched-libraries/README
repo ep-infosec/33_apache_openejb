@@ -1,0 +1,5 @@
+This folder is used to store patched libraries used by OpenEJB.
+
+The artifact version should be generally close to the patched version
+and not follow parent version.
+
